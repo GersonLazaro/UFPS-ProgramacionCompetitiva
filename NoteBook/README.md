@@ -1,0 +1,1 @@
+En esta carpeta se iran agregando los algoritmos que se considere necesario agregar al material impreso que se llevará a las maratones nacional y latinoamericana. 
