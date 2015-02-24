@@ -10,15 +10,15 @@ Los ejercicios de COJ son mas faciles, para iniciar. Sin embargo se recomienda f
 
 ### Ejercicios de práctica
 COJ
-1. [A+B](http://coj.uci.cu/24h/problem.xhtml?pid=1000) - Suma Simple
-2. [Financial Management](http://coj.uci.cu/24h/problem.xhtml?pid=1023) - Promedio
-3. [Hey don't read](http://coj.uci.cu/24h/problem.xhtml?pid=1494) - El mas sencillo de todos
-4. [Pythagorean Numbers](http://coj.uci.cu/24h/problem.xhtml?pid=1099) - Teorema de Pitagoras, A² = B² + C² 
-5. [General Election](http://coj.uci.cu/24h/problem.xhtml?pid=1003) - Se resuelve con sumas
+* [A+B](http://coj.uci.cu/24h/problem.xhtml?pid=1000) - Suma Simple
+* [Financial Management](http://coj.uci.cu/24h/problem.xhtml?pid=1023) - Promedio
+* [Hey don't read](http://coj.uci.cu/24h/problem.xhtml?pid=1494) - El mas sencillo de todos
+* [Pythagorean Numbers](http://coj.uci.cu/24h/problem.xhtml?pid=1099) - Teorema de Pitagoras, A² = B² + C² 
+* [General Election](http://coj.uci.cu/24h/problem.xhtml?pid=1003) - Se resuelve con sumas
 
 LIGHT OJ
-1. [Greetings from Light OJ](http://lightoj.com/volume_showproblem.php?problem=1000) - Una suma simple.
-2. [Ip Checking](http://lightoj.com/volume_showproblem.php?problem=1354) - Conversión a Binario.
+* [Greetings from Light OJ](http://lightoj.com/volume_showproblem.php?problem=1000) - Una suma simple.
+* [Ip Checking](http://lightoj.com/volume_showproblem.php?problem=1354) - Conversión a Binario.
 
 
 Revisalos. No es necesario hacerlos todos, pero si seria buena idea, estos ejercicios son sencillos y claros. Financial Management se encuentra resuelto en esta misma carpeta como ejemplo (Es el archivo llamado EjercicioSimple.java), pero es recomendable al menos intentarlo primero.
