@@ -54,13 +54,29 @@ public class EjercicioSimple{
         StringTokenizer st = new StringTokenizer("");
 
         //De la libreria pasada, copiamos solo los metodos que utilizaremos
-     
+        
+
+
+        /**
+         * Devuelve el siguiente token delimitado por espacios o saltos 
+         * de linea. Es decir, devuelve la siguiente palabra.
+         * @return String con el siguiente token
+         * @throws IOException 
+         */
         public String next() throws IOException {
             while (!st.hasMoreTokens()) {
                 st = new StringTokenizer(br.readLine());
             }
             return st.nextToken();
-        }     
+        } 
+
+
+        /**
+         * Escanea el siguiente token del stream como un float.
+         * REQUIERE LA ESCRITURA DEL MÉTODO NEXT
+         * @return float pasado por el input
+         * @throws IOException 
+         */    
         public double nextFloat() throws IOException {
             return Float.parseFloat(next());
         }
