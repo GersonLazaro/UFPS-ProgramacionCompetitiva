@@ -23,7 +23,9 @@ LIGHT OJ
 
 Revisalos. No es necesario hacerlos todos, pero si seria buena idea, estos ejercicios son sencillos y claros. Financial Management se encuentra resuelto en esta misma carpeta como ejemplo (Es el archivo llamado EjercicioSimple.java), pero es recomendable al menos intentarlo primero.
 
-Si quieres mas retos, ve al [siguiente enlace](http://www.lightoj.com/practice_contest_problemset.php?contest_id=662). Estos ejercicios son de una maratón anterior de la UTP y se asemejan a los que estaremos trabajando. MUY IMPORTANTE intentar al menos uno o dos como preparación. De nuevo, Matematician Ana se encuentra resuelto en esta misma carpeta, pero intentalo tu mismo(a) antes de revisarlo. 
+### Ejercicios de competencia
+
+Tanto si quieres mas retos, como si los ejercicios de práctica te parecen muy simples, ve al [siguiente enlace](http://www.lightoj.com/practice_contest_problemset.php?contest_id=662). Estos ejercicios son de una maratón anterior de la UTP y se asemejan a los que estaremos trabajando. MUY IMPORTANTE intentar al menos uno o dos como preparación. De nuevo, Matematician Ana se encuentra resuelto en esta misma carpeta, pero intentalo tu mismo(a) antes de revisarlo. 
 
 Por último, el dia viernes durante toda el dia estará en Light OJ una maratón de diagnóstico previa al taller del sabado. Importante revisarla para detectar falencias.
 
