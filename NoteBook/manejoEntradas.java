@@ -22,6 +22,16 @@ public class manejoEntradas {
         
         
         public String nextLine() throws IOException{
+            if(st.hasMoreTokens()){
+                StringBuilder salida = new StringBuilder();
+                while(st.hasMoreTokens()){
+                    salida.append(st.nextToken());
+                    if(st.countTokens()>0){
+                        salida.append(" ");
+                    }
+                }
+                return salida.toString();
+            }
             return br.readLine();
         }
         
