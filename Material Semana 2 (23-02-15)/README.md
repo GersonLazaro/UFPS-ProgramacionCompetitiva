@@ -3,7 +3,7 @@ Los archivos Matematician Ana y machine contienen ejercicios realizados en la se
 El archivo ejercicio simple es un bonus con un ejercicio muy simple (hallar el promedio de 12 números), también completamente comentado.
 
 
-Es necesario registrarse en [LightOJ](http://lightoj.com/index.php) y (COJ)[http://coj.uci.cu/index.xhtml] para realizar las practicas.Las dos plataformas tienen un botón de submit desde donde pueden enviar sus soluciones, y verificar si esta bien. No olviden que las clases deben tener el nombre Main para su correcta calificación, y borrar la linea del package.
+Es necesario registrarse en [LightOJ](http://lightoj.com/index.php) y [COJ](http://coj.uci.cu/index.xhtml) para realizar las practicas.Las dos plataformas tienen un botón de submit desde donde pueden enviar sus soluciones, y verificar si esta bien. No olviden que las clases deben tener el nombre Main para su correcta calificación, y borrar la linea del package.
 Los ejercicios de COJ son mas faciles, para iniciar. Sin embargo se recomienda familiarizarse con LightOJ pues será la plataforma usada durante la maratón del sabado 28 de febrero.
 
 
