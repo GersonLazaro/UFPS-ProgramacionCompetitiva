@@ -4,6 +4,12 @@
 
 using namespace std;
 
+/**
+ * @author Bashkara's Formulae (team Candelaria):
+ *      Gerson Lázaro - Melissa Delgado - Cristhian León
+ *      UFPS
+*/
+
 int v,e,n;
 int clon[500][500];
 
