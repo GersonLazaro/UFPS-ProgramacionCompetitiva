@@ -5,6 +5,9 @@
 using namespace std;
 
 /**
+ * Implementación del Algoritmo de Dijkstra usando lista
+ * de adyacencia y colas de prioridad
+ *
  * @author Bashkara's Formulae (team Candelaria):
  *      Gerson Lázaro - Melissa Delgado - Cristhian León
  *      UFPS
@@ -66,23 +69,6 @@ void dijkstra(int inicio){
     }
 }
 
-void imprimirRuta(int posicion){
-    if(previo[posicion]==-1){
-        if(posicion!=1){
-            cout<<-1<<endl;
-        }else{
-            cout<<posicion<<" ";
-        }
-    }else{
-        imprimirRuta(previo[posicion]);
-        if(posicion==v){
-            cout<<v<<endl;
-        }else{
-            cout<<posicion<<" ";
-        }
-    }
-}
-
 int main(){
     ios_base::sync_with_stdio(false);
     int i, inicio, fin;
@@ -100,5 +86,4 @@ int main(){
     }
     
     dijkstra(inicio);
-    imprimirRuta(fin);
 }
